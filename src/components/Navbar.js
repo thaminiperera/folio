@@ -26,6 +26,24 @@ function Navbar() {
               <span>→ </span>About
             </Link>
           </li>
+          <li>
+            <Link
+              to="https://www.linkedin.com/in/thaminiperera/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <span>→ </span>LinkedIn
+            </Link>
+          </li>
+          <li>
+            <Link
+              to="https://github.com/thaminiperera"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <span>→ </span>Github
+            </Link>
+          </li>
         </ul>
       </div>
       <div className="nav-socials">

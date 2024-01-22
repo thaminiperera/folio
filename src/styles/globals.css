@@ -61,18 +61,21 @@ a {
   align-items: center;
   width: 30%;
 }
-
+.nav-container img {
+  height: 168px;
+  width: 200px;
+}
 .nav-name {
-  padding: 1rem;
+  padding: 0.5rem;
   font-family: "Arapey", serif;
-  font-size: 3rem;
+  font-size: 2rem;
   color: #ff686d;
 }
 
 .nav-desc {
-  padding: 1rem;
+  padding: 0.5rem;
   font-family: "Montserrat", sans-serif;
-  font-size: 1rem;
+  font-size: 0.7rem;
   color: #c1c3c4;
   font-weight: 200;
 }
@@ -82,8 +85,8 @@ a {
 }
 
 .nav-links ul {
-  padding-right: 12rem;
-  padding-top: 2rem;
+  padding-right: 10rem;
+  padding-top: 1rem;
   color: #dfddc5;
   display: flex;
   flex-direction: column;
@@ -94,7 +97,7 @@ a {
   margin: 0.3rem 0;
   color: #dfddc5;
   font-family: "Montserrat", sans-serif;
-  font-size: 1rem;
+  font-size: 0.8rem;
   text-decoration: none;
   list-style: none;
   transition: color 0.3s ease;
@@ -106,7 +109,7 @@ a {
 }
 
 .nav-links span {
-  font-size: 1.5rem;
+  font-size: 0.75rem;
 }
 
 /*Layout*/
@@ -128,8 +131,8 @@ a {
   color: #dfddc5;
   padding: 1rem;
   font-family: "Arapey", serif;
-  font-size: 3rem;
-  margin-top: 5rem;
+  font-size: 2rem;
+  margin-top: 2rem;
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -141,7 +144,7 @@ a {
   flex-direction: column;
   flex-wrap: wrap;
   font-family: "Montserrat", sans-serif;
-  font-size: 1rem;
+  font-size: 0.7rem;
   color: #c1c3c4;
 }
 .about-container p {
@@ -154,17 +157,18 @@ a {
   padding: 1.7rem;
   display: flex;
   gap: 1rem;
-  max-height: 40rem;
+  max-height: 26rem;
   flex-wrap: wrap;
   overflow-x: scroll;
-  border: 1px solid #c1c3c4;
+
   justify-content: center;
+  box-shadow: rgba(225, 225, 230, 0.2) 0px 7px 29px 0px;
 }
 
 /*PROJECT*/
 .project-container {
   font-family: "Montserrat", sans-serif;
-  font-size: 1rem;
+  font-size: 0.7rem;
   color: #c1c3c4;
   width: 30%;
   padding: 3rem;
@@ -197,6 +201,7 @@ a {
   text-transform: capitalize;
   padding: 0.4rem;
 }
+
 /*Footer*/
 .footer-container {
   display: flex;
@@ -207,7 +212,7 @@ a {
   bottom: 0;
   color: #c1c3c4;
   font-family: "Montserrat", sans-serif;
-  font-size: 1rem;
+  font-size: 0.7rem;
   width: 70%;
 }
 
@@ -217,7 +222,7 @@ a {
   padding: 5rem 15rem;
 
   font-family: "Montserrat", sans-serif;
-  font-size: 1rem;
+  font-size: 0.7rem;
   color: #c1c3c4;
 }
 
