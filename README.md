@@ -1,5 +1,7 @@
 Portfolio Website
 
+Demo : **https://thaminiperera.netlify.app/**
+
 ## Overview:
 
 This project involves the creation of a personal portfolio website utilizing Gatsby, React, GraphQL, and the GitHub API. The primary goal is to design a mobile-friendly platform that dynamically updates details of the latest projects from the user's GitHub repository.
