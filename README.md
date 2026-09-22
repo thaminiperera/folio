@@ -1,6 +1,4 @@
-Portfolio Website
-
-Demo : **https://thaminiperera.netlify.app/**
+Portfolio Website (v1) [Archived]
 
 ## Overview:
 
